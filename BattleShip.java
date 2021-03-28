@@ -1,8 +1,6 @@
 /*
 Project: BattleShip Game
 Name: Pang Ho Suen
-Class: SE 1C
-Student Number: 190009565
 */
 import java.util.Scanner;
 public class BattleShip
